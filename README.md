@@ -11,7 +11,6 @@ Projet Symfony : Réaliser un site web récapitulant tous les tutos, articles, t
 
 [organisation du travail] trello
 
-[maquette et charte graphique] figma
 
 ## Langages
 
@@ -21,13 +20,6 @@ Javascript
 PHP
 SQL
 
-## Wireframe
-
-Mobile & Desktop
-
-## Maquette
-
-Mobile & Desktop
 
 ## Collaborateurs
 
