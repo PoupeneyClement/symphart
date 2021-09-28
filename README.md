@@ -7,7 +7,7 @@ Projet Symfony : Réaliser un site web récapitulant tous les tutos, articles, t
 
 [code] vscode
 
-[intégration] HTML5 / CSS3 / Javascript / PHP / SQL
+[intégration] HTML5 / CSS3 / Javascript / PHP / SQL / Twig
 
 [organisation du travail] trello
 
